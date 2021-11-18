@@ -1,0 +1,4 @@
+# *.txt:
+#não quero mais ignorar todos os aruqivos .txt
+# ignorar o aquivo senha.txt 
+senha.txt
